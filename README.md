@@ -1,2 +1,0 @@
-# ssryue
-SSR订阅
